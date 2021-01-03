@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\xampp\\htdocs\\most recent\\FCOC-Frontend\\backend\\brontona\\brontona.csproj": {}
+    "C:\\Users\\royku\\Documents\\GitHub\\webtestfcoc\\backend\\brontona\\brontona.csproj": {}
   },
   "projects": {
-    "C:\\xampp\\htdocs\\most recent\\FCOC-Frontend\\backend\\brontona\\brontona.csproj": {
+    "C:\\Users\\royku\\Documents\\GitHub\\webtestfcoc\\backend\\brontona\\brontona.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\xampp\\htdocs\\most recent\\FCOC-Frontend\\backend\\brontona\\brontona.csproj",
+        "projectUniqueName": "C:\\Users\\royku\\Documents\\GitHub\\webtestfcoc\\backend\\brontona\\brontona.csproj",
         "projectName": "brontona",
-        "projectPath": "C:\\xampp\\htdocs\\most recent\\FCOC-Frontend\\backend\\brontona\\brontona.csproj",
-        "packagesPath": "C:\\Users\\dries\\.nuget\\packages\\",
-        "outputPath": "C:\\xampp\\htdocs\\most recent\\FCOC-Frontend\\backend\\brontona\\obj\\",
+        "projectPath": "C:\\Users\\royku\\Documents\\GitHub\\webtestfcoc\\backend\\brontona\\brontona.csproj",
+        "packagesPath": "C:\\Users\\royku\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\royku\\Documents\\GitHub\\webtestfcoc\\backend\\brontona\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\dries\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\royku\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -83,6 +80,10 @@
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[5.0.0, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.2, )"
             }
           },
           "imports": [
@@ -95,7 +96,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
         }
       }
     }

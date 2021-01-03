@@ -70,3 +70,21 @@ C:\xampp\htdocs\most recent\FCOC-Frontend\backend\brontona\obj\Debug\netcoreapp2
 C:\xampp\htdocs\most recent\FCOC-Frontend\backend\brontona\obj\Debug\netcoreapp2.1\brontona.dll
 C:\xampp\htdocs\most recent\FCOC-Frontend\backend\brontona\obj\Debug\netcoreapp2.1\brontona.pdb
 C:\xampp\htdocs\most recent\FCOC-Frontend\backend\brontona\obj\Debug\netcoreapp2.1\brontona.genruntimeconfig.cache
+C:\Users\royku\Documents\GitHub\webtestfcoc\backend\brontona\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\royku\Documents\GitHub\webtestfcoc\backend\brontona\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\royku\Documents\GitHub\webtestfcoc\backend\brontona\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\royku\Documents\GitHub\webtestfcoc\backend\brontona\bin\Debug\netcoreapp2.1\brontona.deps.json
+C:\Users\royku\Documents\GitHub\webtestfcoc\backend\brontona\bin\Debug\netcoreapp2.1\brontona.runtimeconfig.json
+C:\Users\royku\Documents\GitHub\webtestfcoc\backend\brontona\bin\Debug\netcoreapp2.1\brontona.runtimeconfig.dev.json
+C:\Users\royku\Documents\GitHub\webtestfcoc\backend\brontona\bin\Debug\netcoreapp2.1\brontona.dll
+C:\Users\royku\Documents\GitHub\webtestfcoc\backend\brontona\bin\Debug\netcoreapp2.1\brontona.pdb
+C:\Users\royku\Documents\GitHub\webtestfcoc\backend\brontona\obj\Debug\netcoreapp2.1\brontona.csprojAssemblyReference.cache
+C:\Users\royku\Documents\GitHub\webtestfcoc\backend\brontona\obj\Debug\netcoreapp2.1\brontona.AssemblyInfoInputs.cache
+C:\Users\royku\Documents\GitHub\webtestfcoc\backend\brontona\obj\Debug\netcoreapp2.1\brontona.AssemblyInfo.cs
+C:\Users\royku\Documents\GitHub\webtestfcoc\backend\brontona\obj\Debug\netcoreapp2.1\brontona.RazorAssemblyInfo.cache
+C:\Users\royku\Documents\GitHub\webtestfcoc\backend\brontona\obj\Debug\netcoreapp2.1\brontona.RazorAssemblyInfo.cs
+C:\Users\royku\Documents\GitHub\webtestfcoc\backend\brontona\obj\Debug\netcoreapp2.1\brontona.RazorTargetAssemblyInfo.cache
+C:\Users\royku\Documents\GitHub\webtestfcoc\backend\brontona\obj\Debug\netcoreapp2.1\brontona.dll
+C:\Users\royku\Documents\GitHub\webtestfcoc\backend\brontona\obj\Debug\netcoreapp2.1\brontona.pdb
+C:\Users\royku\Documents\GitHub\webtestfcoc\backend\brontona\obj\Debug\netcoreapp2.1\brontona.genruntimeconfig.cache
+C:\Users\royku\Documents\GitHub\webtestfcoc\backend\brontona\obj\Debug\netcoreapp2.1\brontona.csproj.CoreCompileInputs.cache
