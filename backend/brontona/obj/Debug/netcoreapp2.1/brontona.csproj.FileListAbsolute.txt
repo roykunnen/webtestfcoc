@@ -1,0 +1,72 @@
+C:\Users\dries\source\repos\brontona\obj\Debug\netcoreapp2.1\brontona.csprojAssemblyReference.cache
+C:\Users\dries\source\repos\brontona\obj\Debug\netcoreapp2.1\brontona.AssemblyInfoInputs.cache
+C:\Users\dries\source\repos\brontona\obj\Debug\netcoreapp2.1\brontona.AssemblyInfo.cs
+C:\Users\dries\source\repos\brontona\obj\Debug\netcoreapp2.1\brontona.RazorAssemblyInfo.cache
+C:\Users\dries\source\repos\brontona\obj\Debug\netcoreapp2.1\brontona.RazorAssemblyInfo.cs
+C:\Users\dries\source\repos\brontona\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\dries\source\repos\brontona\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\dries\source\repos\brontona\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\dries\source\repos\brontona\bin\Debug\netcoreapp2.1\brontona.deps.json
+C:\Users\dries\source\repos\brontona\bin\Debug\netcoreapp2.1\brontona.runtimeconfig.json
+C:\Users\dries\source\repos\brontona\bin\Debug\netcoreapp2.1\brontona.runtimeconfig.dev.json
+C:\Users\dries\source\repos\brontona\bin\Debug\netcoreapp2.1\brontona.dll
+C:\Users\dries\source\repos\brontona\bin\Debug\netcoreapp2.1\brontona.pdb
+C:\Users\dries\source\repos\brontona\obj\Debug\netcoreapp2.1\brontona.RazorTargetAssemblyInfo.cache
+C:\Users\dries\source\repos\brontona\obj\Debug\netcoreapp2.1\brontona.dll
+C:\Users\dries\source\repos\brontona\obj\Debug\netcoreapp2.1\brontona.pdb
+C:\Users\dries\source\repos\brontona\obj\Debug\netcoreapp2.1\brontona.genruntimeconfig.cache
+C:\Users\dries\source\repos\brontona\obj\Debug\netcoreapp2.1\brontona.csproj.CoreCompileInputs.cache
+C:\Users\dries\Desktop\brontona\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\dries\Desktop\brontona\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\dries\Desktop\brontona\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\dries\Desktop\brontona\bin\Debug\netcoreapp2.1\brontona.deps.json
+C:\Users\dries\Desktop\brontona\bin\Debug\netcoreapp2.1\brontona.runtimeconfig.json
+C:\Users\dries\Desktop\brontona\bin\Debug\netcoreapp2.1\brontona.runtimeconfig.dev.json
+C:\Users\dries\Desktop\brontona\bin\Debug\netcoreapp2.1\brontona.dll
+C:\Users\dries\Desktop\brontona\bin\Debug\netcoreapp2.1\brontona.pdb
+C:\Users\dries\Desktop\brontona\obj\Debug\netcoreapp2.1\brontona.csprojAssemblyReference.cache
+C:\Users\dries\Desktop\brontona\obj\Debug\netcoreapp2.1\brontona.AssemblyInfoInputs.cache
+C:\Users\dries\Desktop\brontona\obj\Debug\netcoreapp2.1\brontona.AssemblyInfo.cs
+C:\Users\dries\Desktop\brontona\obj\Debug\netcoreapp2.1\brontona.csproj.CoreCompileInputs.cache
+C:\Users\dries\Desktop\brontona\obj\Debug\netcoreapp2.1\brontona.RazorAssemblyInfo.cache
+C:\Users\dries\Desktop\brontona\obj\Debug\netcoreapp2.1\brontona.RazorAssemblyInfo.cs
+C:\Users\dries\Desktop\brontona\obj\Debug\netcoreapp2.1\brontona.RazorTargetAssemblyInfo.cache
+C:\Users\dries\Desktop\brontona\obj\Debug\netcoreapp2.1\brontona.dll
+C:\Users\dries\Desktop\brontona\obj\Debug\netcoreapp2.1\brontona.pdb
+C:\Users\dries\Desktop\brontona\obj\Debug\netcoreapp2.1\brontona.genruntimeconfig.cache
+C:\Users\dries\Desktop\FCOC-Frontend\backend\brontona\obj\Debug\netcoreapp2.1\brontona.csprojAssemblyReference.cache
+C:\Users\dries\Desktop\FCOC-Frontend\backend\brontona\obj\Debug\netcoreapp2.1\brontona.AssemblyInfoInputs.cache
+C:\Users\dries\Desktop\FCOC-Frontend\backend\brontona\obj\Debug\netcoreapp2.1\brontona.AssemblyInfo.cs
+C:\Users\dries\Desktop\FCOC-Frontend\backend\brontona\obj\Debug\netcoreapp2.1\brontona.RazorAssemblyInfo.cache
+C:\Users\dries\Desktop\FCOC-Frontend\backend\brontona\obj\Debug\netcoreapp2.1\brontona.RazorAssemblyInfo.cs
+C:\Users\dries\Desktop\FCOC-Frontend\backend\brontona\obj\Debug\netcoreapp2.1\brontona.dll
+C:\Users\dries\Desktop\FCOC-Frontend\backend\brontona\obj\Debug\netcoreapp2.1\brontona.pdb
+C:\Users\dries\Desktop\FCOC-Frontend\backend\brontona\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\dries\Desktop\FCOC-Frontend\backend\brontona\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\dries\Desktop\FCOC-Frontend\backend\brontona\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\dries\Desktop\FCOC-Frontend\backend\brontona\bin\Debug\netcoreapp2.1\brontona.deps.json
+C:\Users\dries\Desktop\FCOC-Frontend\backend\brontona\bin\Debug\netcoreapp2.1\brontona.runtimeconfig.json
+C:\Users\dries\Desktop\FCOC-Frontend\backend\brontona\bin\Debug\netcoreapp2.1\brontona.runtimeconfig.dev.json
+C:\Users\dries\Desktop\FCOC-Frontend\backend\brontona\bin\Debug\netcoreapp2.1\brontona.dll
+C:\Users\dries\Desktop\FCOC-Frontend\backend\brontona\bin\Debug\netcoreapp2.1\brontona.pdb
+C:\Users\dries\Desktop\FCOC-Frontend\backend\brontona\obj\Debug\netcoreapp2.1\brontona.RazorTargetAssemblyInfo.cache
+C:\Users\dries\Desktop\FCOC-Frontend\backend\brontona\obj\Debug\netcoreapp2.1\brontona.genruntimeconfig.cache
+C:\Users\dries\Desktop\FCOC-Frontend\backend\brontona\obj\Debug\netcoreapp2.1\brontona.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\most recent\FCOC-Frontend\backend\brontona\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\xampp\htdocs\most recent\FCOC-Frontend\backend\brontona\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\xampp\htdocs\most recent\FCOC-Frontend\backend\brontona\bin\Debug\netcoreapp2.1\appsettings.json
+C:\xampp\htdocs\most recent\FCOC-Frontend\backend\brontona\bin\Debug\netcoreapp2.1\brontona.deps.json
+C:\xampp\htdocs\most recent\FCOC-Frontend\backend\brontona\bin\Debug\netcoreapp2.1\brontona.runtimeconfig.json
+C:\xampp\htdocs\most recent\FCOC-Frontend\backend\brontona\bin\Debug\netcoreapp2.1\brontona.runtimeconfig.dev.json
+C:\xampp\htdocs\most recent\FCOC-Frontend\backend\brontona\bin\Debug\netcoreapp2.1\brontona.dll
+C:\xampp\htdocs\most recent\FCOC-Frontend\backend\brontona\bin\Debug\netcoreapp2.1\brontona.pdb
+C:\xampp\htdocs\most recent\FCOC-Frontend\backend\brontona\obj\Debug\netcoreapp2.1\brontona.csprojAssemblyReference.cache
+C:\xampp\htdocs\most recent\FCOC-Frontend\backend\brontona\obj\Debug\netcoreapp2.1\brontona.AssemblyInfoInputs.cache
+C:\xampp\htdocs\most recent\FCOC-Frontend\backend\brontona\obj\Debug\netcoreapp2.1\brontona.AssemblyInfo.cs
+C:\xampp\htdocs\most recent\FCOC-Frontend\backend\brontona\obj\Debug\netcoreapp2.1\brontona.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\most recent\FCOC-Frontend\backend\brontona\obj\Debug\netcoreapp2.1\brontona.RazorAssemblyInfo.cache
+C:\xampp\htdocs\most recent\FCOC-Frontend\backend\brontona\obj\Debug\netcoreapp2.1\brontona.RazorAssemblyInfo.cs
+C:\xampp\htdocs\most recent\FCOC-Frontend\backend\brontona\obj\Debug\netcoreapp2.1\brontona.RazorTargetAssemblyInfo.cache
+C:\xampp\htdocs\most recent\FCOC-Frontend\backend\brontona\obj\Debug\netcoreapp2.1\brontona.dll
+C:\xampp\htdocs\most recent\FCOC-Frontend\backend\brontona\obj\Debug\netcoreapp2.1\brontona.pdb
+C:\xampp\htdocs\most recent\FCOC-Frontend\backend\brontona\obj\Debug\netcoreapp2.1\brontona.genruntimeconfig.cache
